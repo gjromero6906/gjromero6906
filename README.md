@@ -10,6 +10,8 @@
 
 ### Languages
 - JavaScript
+- Java
+- SQL
 
 ### Frameworks & Libraries
 - Node.js
